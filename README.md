@@ -58,6 +58,10 @@ Hi, I'm **Lalit Rohilla**, a passionate **Cyber Security Enthusiast**, aspiring 
 - **LinkedIn**: [Lalit Rohilla](https://www.linkedin.com/in/lalitrohilla)
 - **GitHub**: [@21Lalit](https://github.com/21Lalit)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hacking GIF" width="400"/>
+</p>
+
 ---
 
 ### 📣 My Philosophy:
@@ -65,6 +69,3 @@ Hi, I'm **Lalit Rohilla**, a passionate **Cyber Security Enthusiast**, aspiring 
 
 Thanks for stopping by! 💖 Drop a ⭐ if you find my work interesting or helpful!
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65794972/214842065-68df4260-1544-409b-aeec-89c3a857c4b7.gif" alt="hacker-cat" width="200"/>
-</p>
