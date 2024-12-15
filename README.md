@@ -34,18 +34,14 @@ Hi, I'm **Lalit Rohilla**, a passionate **Cyber Security Enthusiast**, aspiring 
 
 ## 🚀 Featured Projects
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/21Lalit/Powershell-Scripting" style="text-decoration: none; border: 2px solid #FF4500; border-radius: 10px; padding: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=PowerShell-Scripting&theme=radical" alt="PowerShell Projects Card" />
-  </a>
-  <a href="https://github.com/21Lalit/Networking-Projects" style="text-decoration: none; border: 2px solid #32CD32; border-radius: 10px; padding: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Networking-Projects&theme=radical" alt="Networking Projects Card" />
-  </a>
-  <a href="https://github.com/21Lalit/Batch-Scripting" style="text-decoration: none; border: 2px solid #1E90FF; border-radius: 10px; padding: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Batch-Scripting&theme=radical" alt="Batch Scripting Projects Card" />
-  </a>
+---
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Networking-Projects&theme=radical" alt="Networking Projects Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=PowerShell-Scripting&theme=radical" alt="PowerShell Projects Card" />
 </p>
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Batch-Scripting&theme=radical" alt="Batch Scripting Projects Card" />
+</p>
 --
 Explore my other repositories to see more projects and contributions. 🌟
 
