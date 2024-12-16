@@ -36,11 +36,17 @@ Hi, I'm **Lalit Rohilla**, a passionate **Cyber Security Enthusiast**, aspiring 
 
 ---
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Networking-Projects&theme=radical" alt="Networking Projects Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=PowerShell-Scripting&theme=radical" alt="PowerShell Projects Card" />
+  <a href="https://github.com/21Lalit/Networking-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Networking-Projects&theme=radical" alt="Networking Projects Card" />
+  </a>
+  <a href="https://github.com/21Lalit/Powershell-Scripting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=PowerShell-Scripting&theme=radical" alt="PowerShell Projects Card" />
+  </a>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Batch-Scripting&theme=radical" alt="Batch Scripting Projects Card" />
+  <a href="https://github.com/21Lalit/Batch-Scripting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Lalit&repo=Batch-Scripting&theme=radical" alt="Batch Scripting Projects Card" />
+  </a>  
 </p>
 --
 Explore my other repositories to see more projects and contributions. 🌟
